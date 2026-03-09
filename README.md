@@ -1,43 +1,57 @@
-# 🔐 Página de Login
+🔐 Página de Login
 
-Este repositório contém uma **página de login simples**, desenvolvida utilizando apenas **HTML5 e CSS3**. O projeto tem como objetivo praticar a criação de formulários e a estilização de interfaces web.
+Este repositório apresenta uma interface de página de login desenvolvida utilizando HTML5 e CSS3, com foco na prática de estruturação de formulários e estilização de interfaces web.
 
----
+O projeto foi criado com o objetivo de aprimorar conhecimentos em layout, organização de elementos e design de formulários responsivos.
 
-## 🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+HTML5
 
----
+CSS3
 
-## 📋 Descrição
+📋 Funcionalidades da Interface
 
-A página apresenta um formulário básico de login com campos para usuário/e-mail, senha, lembrar senha, cadastro e esqueci senha,  além de um botão de acesso. O layout é simples, organizado e de fácil entendimento.
+A página contém:
 
----
+Campo para usuário ou e-mail
 
-## ▶️ Como Executar
+Campo para senha
 
-1. Clone este repositório:
+Opção “Lembrar senha”
 
-```bash
+Link “Esqueci minha senha”
+
+Link para cadastro
+
+Botão de login
+
+O layout foi desenvolvido para ser simples, organizado e intuitivo, simulando a interface de autenticação de aplicações web.
+
+▶️ Como Executar o Projeto
+
+Clone o repositório:
+
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
 
-2. Abra o arquivo `index.html` em um navegador.
+Acesse a pasta do projeto
 
----
+Abra o arquivo index.html em qualquer navegador.
 
-## 📌 Observações
+🌐 Demonstração do Projeto
 
-* Projeto apenas visual (sem validação ou back-end)
-* Utilizado para fins de estudo e prática com HTML e CSS
+Acesse o projeto publicado:
 
----
+👉 https://franciellyvicente.github.io/Login/
 
-https://franciellyvicente.github.io/Login/
+📌 Observações
 
-## 👩‍💻 Autor(a)
+Este projeto possui apenas interface visual
+
+Não possui integração com back-end ou sistema de autenticação
+
+Desenvolvido com fins educacionais e de prática em front-end
+
+👩‍💻 Autora
 
 Francielly Vicente
